@@ -1,0 +1,15 @@
+{
+  "name": "product-api",
+  "version": "1.0.0",
+  "description": "API for managing products",
+  "license": "ISC",
+  "author": "Adaobi okwuosa",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
